@@ -55,12 +55,12 @@
 .contact-left{width:322px; float:left; font-weight:bold; padding-left:28px; padding-top:50px; font-size:18px;}
 .contact-left h1{font-size:26px; color:#FFF;}
 .contact-left h2{font-size:26px; padding-top:20PX; color:ffffff;}
-.forsales{ background-color:#06292f; padding:9px; -webkit-border-radius: 8px ;
+.forsales{ padding:9px; -webkit-border-radius: 8px ;
 -moz-border-radius: 10px ;border-radius: 8px; 
-color:#FFF; font-size:18px; padding:20px; border:1px solid #2e7e8d;
+color:#FFF; font-size:18px; padding:20px;  margin-right:300px; margin-left:300px;
  }
-.ctxt{ width:360px; font-size:30px; color:#2eb1f6; text-align:right;
- border-bottom:1px solid #2eb1f6; margin-bottom:20px; margin-left:403px; }
+.ctxt{ width:200px; font-size:30px; color:#2eb1f6; text-align:right;
+ border-bottom:1px solid #2eb1f6; margin-bottom:20px; margin-left:570px; }
 
 
 
